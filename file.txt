@@ -9,3 +9,21 @@ exchange various cryptocurrencies directly without relying on centralized
 intermediaries. This innovative approach goes beyond the limitations of
 traditional messaging applications that only permit sending transactions with
 GIFs. Software Requirements
+
+this is after feature branch
+Software Requirements
+Development Environment:
+o Operating System: Windows 11 , macOS, or Linux
+o Code Editor: Visual Studio Code
+o Node.js(latest version)
+o Web3.js library
+o Solidity compiler
+o Git version control system
+o Web browser (for development and testing)
+Hardware Requirements
+ Minimum hardware specifications will depend on the chosen development environment and
+workload. However, a general recommendation includes:
+o Processor: Recent generation Intel Core i5 or AMD Ryzen 5 (or equivalent)
+o Memory (RAM): 8 GB or more
+o Storage: 500 GB SSD or larger (depending on project size and development tools)
+o Reliable internet connection
