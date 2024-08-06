@@ -1,0 +1,11 @@
+CX-App Abstract
+
+This project proposes the development of a decentralized application (CApp)
+that functions similarly to a cryptocurrency exchange platform. Built on the
+robust Ethereum block-chain, the CApp will leverage the power and security of
+Solidity smart contracts. These smart contracts will facilitate secure and
+transparent peer-to-peer token swapping functionalities, allowing users to
+exchange various cryptocurrencies directly without relying on centralized
+intermediaries. This innovative approach goes beyond the limitations of
+traditional messaging applications that only permit sending transactions with
+GIFs. Software Requirements
